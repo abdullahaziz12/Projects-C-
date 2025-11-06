@@ -9,5 +9,5 @@ Electricity Bill Calculator – Computes monthly bill with taxes and surcharges.
 Water Bill Calculator – Estimates WASA water bill based on property size and charges etc.
 Name: Abdullah Aziz
 Program: BS Software Engineering
-Email: abdullahaziz744@gmail.com
+Email: abdullahazizgujjar009@gmail.com
 GitHub: github.com/abdullahaziz12
